@@ -1,4 +1,4 @@
-function IP {
+function Get-IP {
     <#
 .SYNOPSIS
     This script is part of the BStarkIT PowerShell module collection.
